@@ -68,3 +68,7 @@ public enum HandError: Error, CustomStringConvertible {
     }
   }
 }
+
+
+//var test:[Card] = cards
+//print(test.allSecondElement)
